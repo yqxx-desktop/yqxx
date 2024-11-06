@@ -2,9 +2,9 @@
 
 蜂鸟舆情是一款电商商品分析软件，用户通过简单挂机，即可实现对各平台商品进行热销趋势分析，让商家和买家得到更优质的服务。 蜂鸟舆情让用户挂机更轻松，简单操作就能获得任务收益且随时提现；邀请好友一起做任务还能获得额外收益。
 
-下载客户端地址：[https://www.yqndll.com/](http://123.60.166.74:8080/)
+下载客户端地址：http://123.60.166.74:8080/
 
-备用地址1：[http://35.220.132.247:8080/](https://gpwuxt64xh.feishu.cn/docx/GJNed82iOokGu8xsRDPcA33onDc)
+备用地址1：https://gpwuxt64xh.feishu.cn/docx/GJNed82iOokGu8xsRDPcA33onDc
 
 常见问题答疑：https://gpwuxt64xh.feishu.cn/docx/DLIHd1td8o4yf5x6ZkPcpFpnn4b
 
